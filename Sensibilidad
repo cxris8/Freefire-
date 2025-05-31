@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mejores Sensibilidades Free Fire 2025</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #0f0f0f;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #1a1a1a;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      color: #00ff88;
+      margin: 0;
+    }
+    .content {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 20px;
+      background: #1e1e1e;
+      border-radius: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    th, td {
+      padding: 10px;
+      text-align: center;
+      border-bottom: 1px solid #333;
+    }
+    th {
+      background: #00ff88;
+      color: #000;
+    }
+    .footer {
+      text-align: center;
+      padding: 20px;
+      color: #aaa;
+      background: #111;
+    }
+    @media (max-width: 600px) {
+      table, th, td {
+        font-size: 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎯 Mejores Sensibilidades de Paga - Free Fire 2025</h1>
+    <p>Actualizado con configuraciones de pro players</p>
+  </header>
+
+  <div class="content">
+    <h2>Top Configuraciones Premium</h2>
+    <table>
+      <tr>
+        <th>Jugador</th>
+        <th>General</th>
+        <th>Punto Rojo</th>
+        <th>2X</th>
+        <th>4X</th>
+        <th>AWM</th>
+      </tr>
+      <tr>
+        <td>PlayerProX</td>
+        <td>90</td>
+        <td>88</td>
+        <td>80</td>
+        <td>75</td>
+        <td>50</td>
+      </tr>
+      <tr>
+        <td>K1ngSens</td>
+        <td>94</td>
+        <td>91</td>
+        <td>82</td>
+        <td>78</td>
+        <td>53</td>
+      </tr>
+      <tr>
+        <td>Sn1perGod</td>
+        <td>85</td>
+        <td>80</td>
+        <td>77</td>
+        <td>70</td>
+        <td>45</td>
+      </tr>
+    </table>
+    <p style="margin-top:20px">Estas sensibilidades están basadas en análisis de jugadores top globales y personalizadas para precisión extrema 🔥</p>
+  </div>
+
+  <div class="footer">
+    Hecho con ❤️ para la comunidad Free Fire<br>
+    Sígueme en IG: <a href="https://instagram.com/tucuenta" style="color: #00ff88"> @tucuenta </a>
+  </div>
+</body>
+</html>
